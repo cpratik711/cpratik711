@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
-- 👨‍💻 All of my projects are available at [https://github.com/cpratik711/cpratik711](https://github.com/cpratik711)
+- 👨‍💻 All of my projects are available at [https://github.com/cpratik711/](https://github.com/cpratik711)
 
 - 💬 Ask me about **Android**
 
