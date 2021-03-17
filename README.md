@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Connect with me via 👇
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](linkedin.com/in/pratikchauhan11)
+[![Medium](https://img.shields.io/badge/Dribbble-pink.svg?style=for-the-badge&logo=dribbble)](https://pratikchauhan11.medium.com/)
