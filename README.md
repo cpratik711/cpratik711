@@ -1,6 +1,3 @@
-### Hi there, I'm Pratik👋
-
-
 <h1 align="center">Hi 👋, I'm Pratik Chauhan</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
